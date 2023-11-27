@@ -2,3 +2,5 @@
 bundle/.DS_Store
 .idea/misc.xml
 bundle/lib/.DS_Store
+*.iml
+*.xml
