@@ -4,3 +4,4 @@ bundle/.DS_Store
 bundle/lib/.DS_Store
 *.iml
 *.xml
+.DS_Store
