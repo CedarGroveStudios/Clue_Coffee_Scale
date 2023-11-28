@@ -1,4 +1,4 @@
-Introduction
+Clue Coffee Scale
 ============
 
 
@@ -11,18 +11,20 @@ Introduction
     :target: https://github.com/psf/black
     :alt: Code Style: Black
 
-The Clue Coffee Scale can accurately measure the weight of the ground beans or the extraction output,
-getting closer to an exact and repeatable approach for creating your preferred brew. To measure the contents
-of a container, the scale can be zeroed with a push of a button to subtract the container's tare weight.
-The scale uses a load cell sensor device that consists of a very sensitive resistance array (a strain gauge)
-attached to a metal bending beam. When connected to an exciter voltage, the resistance array provides a
-differential voltage output signal proportional to the torque of the mass placed on the load cell. The signal
-voltage is very low so a sensitive amplifier and high-resolution analog to digital converter (ADC) are used to
-provide a microcontroller-compatible measurement.
-T
+The Clue Coffee Scale is designed to measure the weight of the ground beans or the extraction output to
+achieve repeatable results for your preferred brew. To measure the contents of a container, the
+scale can be zeroed with a push of the Clue's A button to subtract the container's tare weight.
 
-.. image:: https://github.com/CedarGroveStudios/Clue_Scale/blob/master/media/range_slicer_models.png
-   :alt: Clue Coffee Scale
+The scale uses a load cell sensor that consists of a very sensitive resistance array (a strain gauge)
+attached to a metal bending beam. The specialized NAU7802 Analog-to-Digital Converter (ADC) breakout
+board connects to the load cell and measures the slight changes in the array's differential voltage,
+calculating the weight of the mass placed on the load cell.
+
+The Clue interfaces with the NAU7802 ADC board and automatically updates a colorful graphics display
+showing the results in both ounces and grams.
+
+.. image:: https://github.com/CedarGroveStudios/Clue_Scale/blob/master/media/clue_scale_01.jpg
+   :alt: Clue Coffee Scale in Action
 
 
 Dependencies
