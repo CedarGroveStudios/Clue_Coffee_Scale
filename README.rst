@@ -1,12 +1,6 @@
 Clue Coffee Scale
 ============
 
-
-.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/workflows/Build%20CI/badge.svg
-    :target: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/actions
-    :alt: Build Status
-
-
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/psf/black
     :alt: Code Style: Black
