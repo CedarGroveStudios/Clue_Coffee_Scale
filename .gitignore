@@ -1,7 +1,5 @@
 
-bundle/.DS_Store
-.idea/misc.xml
-bundle/lib/.DS_Store
 *.iml
 *.xml
-.DS_Store
+*.idea
+*.DS_Store
