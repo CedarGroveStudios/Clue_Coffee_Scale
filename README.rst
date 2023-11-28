@@ -20,6 +20,7 @@ showing the results in both ounces and grams.
 
 .. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_01.jpg
    :width: 400
+   :align: center
    :alt: Clue Coffee Scale in Action
 
 
