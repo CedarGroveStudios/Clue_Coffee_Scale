@@ -23,7 +23,7 @@ calculating the weight of the mass placed on the load cell.
 The Clue interfaces with the NAU7802 ADC board and automatically updates a colorful graphics display
 showing the results in both ounces and grams.
 
-.. image:: https://github.com/CedarGroveStudios/Clue_Scale/blob/master/media/clue_scale_01.jpg
+.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_01.jpg
    :alt: Clue Coffee Scale in Action
 
 
