@@ -24,6 +24,7 @@ The Clue interfaces with the NAU7802 ADC board and automatically updates a color
 showing the results in both ounces and grams.
 
 .. image:: https://github.com/CedarGroveStudios/Clue_Scale/blob/master/media/clue_scale_01.jpg
+   :width: 400
    :alt: Clue Coffee Scale in Action
 
 
