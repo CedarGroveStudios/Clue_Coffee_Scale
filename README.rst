@@ -11,11 +11,11 @@ To measure the contents of a container, the scale can be zeroed with a push of t
 button to subtract the container's tare weight.
 
 The scale uses a load cell sensor that consists of a very sensitive resistance array (a strain gauge)
-attached to a metal bending beam. The specialized NAU7802 Analog-to-Digital Converter (ADC) breakout
+attached to a metal bending beam. The specialized `NAU7802 Analog-to-Digital Converter (ADC)` breakout
 board connects to the load cell and measures the slight changes in the array's differential voltage,
 calculating the weight of the mass placed on the load cell.
 
-The Clue interfaces with the NAU7802 ADC board and automatically updates a colorful graphics display
+The Clue interfaces with the `NAU7802 ADC` board and automatically updates a colorful graphics display
 showing the results in both ounces and grams.
 
 .. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_01.jpg
@@ -46,25 +46,25 @@ Software dependencies:
 
 ... the font file:
 
-* helvB24.bdf (placed into the project's ``fonts`` folder):
+* ``helvB24.bdf`` (placed into the project's ``fonts`` folder):
 
 The font file can be found in the `fonts <https://github.com/CedarGroveStudios/Clue_Coffee_Scale/tree/master/bundle/fonts>`_ folder in the project bundle of the `Clue_Coffee_Scale` repository.
 
 ... the following CircuitPython Libraries (placed into the project's ``lib`` folder):
 
-* adafruit_apds9960
-* adafruit_bitmap_font
-* adafruit_bmp280
-* adafruit_clue
-* adafruit_display_shapes
-* adafruit_display_text
-* adafruit_lis3mdl
-* adafruit_lsm6ds
-* adafruit_register
-* adafruit_sht31d
-* cedargrove_nau7802
-* neopixel
-* simpleio
+* ``adafruit_apds9960``
+* ``adafruit_bitmap_font``
+* ``adafruit_bmp280``
+* ``adafruit_clue``
+* ``adafruit_display_shapes``
+* ``adafruit_display_text``
+* ``adafruit_lis3mdl``
+* ``adafruit_lsm6ds``
+* ``adafruit_register``
+* ``adafruit_sht31d``
+* ``cedargrove_nau7802``
+* ``neopixel``
+* ``simpleio``
 
 CircuitPython libraries can be found in the latest `Adafruit CircuitPython Library distribution <https://circuitpython.org/libraries>`_
 or installed individually using `circup <https://github.com/adafruit/circup>`_.
