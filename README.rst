@@ -2,8 +2,8 @@ Clue Coffee Scale
 ============
 
 
-.. image:: https://github.com/CedarGroveStudios/Clue_Scale/workflows/Build%20CI/badge.svg
-    :target: https://github.com/CedarGroveStudios/Cedargrove_CircuitPython_RangeSlicer/actions
+.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/workflows/Build%20CI/badge.svg
+    :target: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/actions
     :alt: Build Status
 
 
