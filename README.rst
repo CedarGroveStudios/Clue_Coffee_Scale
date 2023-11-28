@@ -1,12 +1,6 @@
 Clue Coffee Scale
 ============
 
-
-.. image:: https://github.com/CedarGroveStudios/Clue_Scale/workflows/Build%20CI/badge.svg
-    :target: https://github.com/CedarGroveStudios/Cedargrove_CircuitPython_RangeSlicer/actions
-    :alt: Build Status
-
-
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/psf/black
     :alt: Code Style: Black
@@ -23,7 +17,11 @@ calculating the weight of the mass placed on the load cell.
 The Clue interfaces with the NAU7802 ADC board and automatically updates a colorful graphics display
 showing the results in both ounces and grams.
 
+<<<<<<< HEAD
 .. image:: https://github.com/CedarGroveStudios/Clue_Scale/blob/master/media/clue_scale_01.jpg
+   :width: 400
+=======
+.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_01.jpg
    :width: 400
    :alt: Clue Coffee Scale in Action
 
