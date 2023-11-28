@@ -17,10 +17,7 @@ calculating the weight of the mass placed on the load cell.
 The Clue interfaces with the NAU7802 ADC board and automatically updates a colorful graphics display
 showing the results in both ounces and grams.
 
-<<<<<<< HEAD
-.. image:: https://github.com/CedarGroveStudios/Clue_Scale/blob/master/media/clue_scale_01.jpg
-   :width: 400
-=======
+
 .. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_01.jpg
    :width: 400
    :alt: Clue Coffee Scale in Action
@@ -28,7 +25,7 @@ showing the results in both ounces and grams.
 
 Dependencies
 =============
-This driver depends on:
+This project depends on:
 
 * `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
 
@@ -39,27 +36,5 @@ or individual libraries can be installed using
 `circup <https://github.com/adafruit/circup>`_.
 
 
-Installing to a Connected CircuitPython Device with Circup
-==========================================================
-
-Make sure that you have ``circup`` installed in your Python environment.
-Install it with the following command if necessary:
-
-.. code-block:: shell
-
-    pip3 install circup
-
-With ``circup`` installed and your CircuitPython device connected use the
-following command to install:
-
-.. code-block:: shell
-
-    circup install cedargrove_rangeslicer
-
-Or the following command to update an existing version:
-
-.. code-block:: shell
-
-    circup update
 
 
