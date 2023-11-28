@@ -69,7 +69,7 @@ The font file can be found in the `fonts <https://github.com/CedarGroveStudios/C
 CircuitPython libraries can be found in the latest `Adafruit CircuitPython Library distribution <https://circuitpython.org/libraries>`_
 or installed individually using `circup <https://github.com/adafruit/circup>`_.
 
-.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_03.jpg
+.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_03.png
    :width: 400
    :align: center
    :alt: The Display Screen
