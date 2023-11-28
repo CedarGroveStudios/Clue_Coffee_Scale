@@ -18,12 +18,10 @@ calculating the weight of the mass placed on the load cell.
 The Clue interfaces with the NAU7802 ADC board and automatically updates a colorful graphics display
 showing the results in both ounces and grams.
 
-
 .. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_01.jpg
    :width: 400
    :align: center
    :alt: Clue Coffee Scale in Action
-
 
 Dependencies
 =============
@@ -71,4 +69,7 @@ The font file can be found in the `fonts <https://github.com/CedarGroveStudios/C
 CircuitPython libraries can be found in the latest `Adafruit CircuitPython Library distribution <https://circuitpython.org/libraries>`_
 or installed individually using `circup <https://github.com/adafruit/circup>`_.
 
-
+.. image:: https://github.com/CedarGroveStudios/Clue_Coffee_Scale/blob/master/media/clue_scale_03.jpg
+   :width: 400
+   :align: center
+   :alt: The Display Screen
