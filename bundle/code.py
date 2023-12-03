@@ -1,11 +1,11 @@
-# SPDX-FileCopyrightText: 2023 Jan Goolsbey
+# SPDX-FileCopyrightText: Copyright 2021-2023 Jan Goolsbey
 # SPDX-License-Identifier: MIT
 #
 # clue_scale_code.py
-# 2023-11-27 v2.0.0
+# 2023-11-29 v2.0.0
 #
 # Clue Scale - Single Channel Version
-# -- Adafruit NAU7802 Stemma breakout, FeatherWing, or SparkFun Scale
+# -- Adafruit NAU7802 Stemma breakout
 
 # import clue_scale_calibrator  # Uncomment to run calibrator method
 
@@ -37,7 +37,7 @@ CALIB_RATIO = 100 / 215300  # load cell serial#4540-02
 
 # Instantiate the Sensor and Display
 i2c = board.I2C()  # uses board.SCL and board.SDA
-# i2c = board.STEMMA_I2C()  # For using the built-in STEMMA QT connector on a microcontroller
+# i2c = board.STEMMA_I2C()  # For using the built-in STEMMA QT connector
 nau7802 = NAU7802(i2c, address=0x2A, active_channels=1)
 
 display = board.DISPLAY
